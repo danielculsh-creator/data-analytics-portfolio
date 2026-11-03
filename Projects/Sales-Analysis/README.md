@@ -33,3 +33,14 @@ Use the output to identify which categories, regions, and months contribute most
 
 ## Limitations
 The dataset has only 12 illustrative records. Results are demonstrations of analytical methods, not statistically reliable business conclusions.
+
+## Example results from the included sample
+
+Running the analysis on the included 12-row sample produces:
+- Total revenue: 174,200 illustrative units
+- Estimated profit: 73,900 illustrative units
+- Highest-revenue category: Electronics (117,500)
+- Highest-revenue region: West (54,300)
+- Highest-revenue month: February 2026 (82,400)
+
+These figures are calculated from the synthetic sample only. They should not be generalised to a real business.
