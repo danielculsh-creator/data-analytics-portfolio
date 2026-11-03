@@ -1,0 +1,13 @@
+order_id,order_date,customer_id,region,category,product,quantity,unit_price,cost
+1001,2026-01-03,C001,North,Electronics,Mouse,2,8500,5200
+1002,2026-01-05,C002,South,Office,Notebook,5,1800,900
+1003,2026-01-08,C003,West,Electronics,Keyboard,1,14500,9000
+1004,2026-01-12,C001,North,Office,Pen Set,3,2500,1200
+1005,2026-02-02,C004,East,Electronics,Mouse,4,8500,5200
+1006,2026-02-07,C005,South,Office,Notebook,8,1800,900
+1007,2026-02-14,C006,West,Electronics,Keyboard,2,14500,9000
+1008,2026-02-20,C002,South,Office,Pen Set,2,2500,1200
+1009,2026-03-01,C007,East,Electronics,Mouse,1,8500,5200
+1010,2026-03-04,C003,West,Office,Notebook,6,1800,900
+1011,2026-03-11,C008,North,Electronics,Keyboard,1,14500,9000
+1012,2026-03-18,C009,East,Office,Pen Set,4,2500,1200
