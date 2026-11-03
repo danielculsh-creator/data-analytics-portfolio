@@ -1,4 +1,4 @@
-# Daniel Culsh | Data Analytics Portfolio
+# Daniel Ebili | Data Analytics Portfolio
 
 I am a Business Administration graduate of the University of Abuja developing practical data analytics skills and documenting my learning through projects.
 
