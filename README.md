@@ -21,6 +21,13 @@ I am a Business Administration graduate of the University of Abuja developing pr
 
 These are learning and portfolio projects, not claims of client work or professional employment.
 
+
+## Featured case study
+
+**[Sales Performance Analysis — Synthetic Practice Project](Projects/Sales-Analysis/README.md)**
+
+A reproducible beginner project using a small synthetic sales dataset. It includes a Python analysis script, SQLite queries, and documented assumptions. The example dataset is intentionally small and is not real company data.
+
 ## Repository structure
 - Python/ — analysis scripts
 - SQL/ — business query examples
