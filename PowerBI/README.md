@@ -22,7 +22,6 @@ The report is organised into three pages:
 
 A fuller transcription of the model measures is available in [DAX-Measures.md](DAX-Measures.md).
 
-
 The model includes measures for:
 
 - Total Revenue
@@ -66,8 +65,6 @@ Check the exact table and column names in the PBIX model before reusing these fo
 
 ## Report screenshots
 
-After the screenshots are added to this folder, they will appear here:
-
 | Report page | Screenshot |
 |---|---|
 | Executive Sales Overview | ![Executive Sales Overview](screenshots/executive-sales-overview.png) |
@@ -76,7 +73,7 @@ After the screenshots are added to this folder, they will appear here:
 
 ## Project files
 
-- `Sales_Performance_Analytics_Dashboard.pbix` — interactive Power BI report file (add this file to this folder).
+- [`Sales_Performance_Analytics_Dashboard.pbix`](Sales_Performance_Analytics_Dashboard.pbix) — the interactive Power BI report file is included in this folder.
 - `screenshots/` — report-page preview images.
 
 ## Important interpretation notes
@@ -92,7 +89,7 @@ This repository documentation describes the report structure and measures visibl
 
 ## Author
 
-**Daniel Culsh**  
+**Daniel Ebili**  
 Aspiring Data Analyst | Business Administration | Power BI, Excel, Python, SQL, and AI Automation
 
 This is a portfolio learning project and is not presented as professional client work.
