@@ -1,4 +1,4 @@
-# Daniel Culsh | Data Analytics Portfolio
+# Daniel Ebili | Data Analytics Portfolio
 
 I am a Business Administration graduate of the University of Abuja (2023–2026), building practical data analytics skills and documenting my learning through hands-on projects.
 
@@ -21,7 +21,7 @@ A three-page interactive report covering:
 2. Product & Customer Analysis
 3. Geographical & Time Analysis
 
-The project documentation describes the report pages, KPIs, DAX measures, and interpretation notes. The PBIX file and page screenshots still need to be added to the repository.
+The project documentation describes the report pages, KPIs, DAX measures, and interpretation notes. The interactive PBIX report and page screenshots are included in the repository.
 
 ### [Sales Performance Analysis — Synthetic Practice Project](Projects/Sales-Analysis/README.md)
 
@@ -32,7 +32,7 @@ A reproducible practice project using a small synthetic sales dataset, with Pyth
 - `Python/` — analysis scripts
 - `SQL/` — business query examples
 - `Excel/` — spreadsheet analysis guidance
-- `PowerBI/` — Power BI dashboard documentation and DAX
+- `PowerBI/` — Power BI dashboard, documentation, screenshots, and DAX
 - `Data-Cleaning/` — data quality workflow
 - `Jupyter-Notebooks/` — notebook learning materials
 - `AI-Automation/` — responsible automation concepts
