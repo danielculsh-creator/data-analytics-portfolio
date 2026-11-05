@@ -20,6 +20,9 @@ The report is organised into three pages:
 
 ## Key measures
 
+A fuller transcription of the model measures is available in [DAX-Measures.md](DAX-Measures.md).
+
+
 The model includes measures for:
 
 - Total Revenue
