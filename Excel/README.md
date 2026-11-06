@@ -1,6 +1,8 @@
 # Excel Portfolio
 
-This section contains Excel practice workbooks covering data cleaning, logical formulas, lookup and dynamic-array functions, sorting, statistical functions, rounding, and aggregation.
+This section documents eight Excel practice workbooks reviewed for this portfolio. The workbooks cover data cleaning, logical formulas, lookup and dynamic-array functions, sorting, statistical functions, rounding, and aggregation.
+
+**Upload status:** The workbook descriptions and folder plan are published here. The original `.xlsx` files still need to be uploaded into the paths listed below.
 
 ## Workbook collection
 
