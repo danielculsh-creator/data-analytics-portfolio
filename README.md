@@ -19,7 +19,7 @@ A three-page interactive report covering executive sales performance, product an
 
 ### [Excel Portfolio — Data Cleaning and Formula Exercises](Excel/README.md)
 
-A collection of Excel practice workbooks covering invoice data preparation and reconciliation, logical functions, lookups, dynamic arrays, sorting, statistics, rounding, and aggregation.
+An index and review of eight Excel practice workbooks covering invoice data preparation and reconciliation, logical functions, lookups, dynamic arrays, sorting, statistics, rounding, and aggregation. The original workbook files are pending upload.
 
 ### [Sales Performance Analysis — Synthetic Practice Project](Projects/Sales-Analysis/README.md)
 
