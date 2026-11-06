@@ -11,17 +11,15 @@ I am a Business Administration graduate of the University of Abuja (2023–2026)
 - **AI Automation:** exploring responsible ways to streamline repeatable tasks.
 - Business analysis, data storytelling, and research.
 
-## Featured project
+## Featured projects
 
 ### [Sales Performance Analytics Dashboard — Power BI](PowerBI/README.md)
 
-A three-page interactive report covering:
+A three-page interactive report covering executive sales performance, product and customer analysis, and geographical and time trends. The PBIX report and page screenshots are included in the repository.
 
-1. Executive Sales Overview
-2. Product & Customer Analysis
-3. Geographical & Time Analysis
+### [Excel Portfolio — Data Cleaning and Formula Exercises](Excel/README.md)
 
-The project documentation describes the report pages, KPIs, DAX measures, and interpretation notes. The interactive PBIX report and page screenshots are included in the repository.
+A collection of Excel practice workbooks covering invoice data preparation and reconciliation, logical functions, lookups, dynamic arrays, sorting, statistics, rounding, and aggregation.
 
 ### [Sales Performance Analysis — Synthetic Practice Project](Projects/Sales-Analysis/README.md)
 
@@ -31,7 +29,7 @@ A reproducible practice project using a small synthetic sales dataset, with Pyth
 
 - `Python/` — analysis scripts
 - `SQL/` — business query examples
-- `Excel/` — spreadsheet analysis guidance
+- `Excel/` — Excel portfolio workbooks and documentation
 - `PowerBI/` — Power BI dashboard, documentation, screenshots, and DAX
 - `Data-Cleaning/` — data quality workflow
 - `Jupyter-Notebooks/` — notebook learning materials
