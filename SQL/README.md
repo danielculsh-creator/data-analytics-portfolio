@@ -1,5 +1,25 @@
-# SQL Business Analysis
+# SQL Practice
 
-The examples in business_questions.sql use a generic table named sales. Rename the table and columns to match your database.
+SQL scripts documenting beginner database and analysis exercises.
 
-Practice questions include overall revenue, category and region performance, monthly trends, and top customers. SQL dialects differ; date functions may need adjustment for your database.
+## Customer Database Practice
+
+File: `customer_database_practice.sql`
+
+Written for Microsoft SQL Server (T-SQL). It demonstrates:
+
+- Creating a database only when it does not already exist.
+- Creating a customer table with a primary key.
+- Storing phone-number placeholders as text to preserve formatting.
+- Inserting clearly illustrative sample rows.
+- Running SELECT and UPDATE statements.
+- Generating example email strings using the reserved `example.test` domain.
+
+The script recreates only its practice table when run. Do not use it against a production database.
+
+## Other scripts
+
+- `business_questions.sql` — example business questions and SQL queries.
+- `sample_sales_analysis.sql` — analysis using the repository's synthetic sales data.
+
+All work is presented as learning practice, not paid client work.
